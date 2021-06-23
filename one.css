@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://image/cart.jpg");
+  background-image: url(image/cart.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
